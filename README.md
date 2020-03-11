@@ -1,14 +1,14 @@
-## @lingyue/common-base
+## lvl-common-base
 
 
 ## QuickStart
 ```bash
-npm install @lingyue/common-base
+npm install lvl-common-base
 ```
 
 
 ## usage
 ```
-import zhuUi from '@lingyue/common-base'
+import lvl-common-base from 'lvl-common-base'
 
 ```
